@@ -38,7 +38,9 @@ I am a funny fullstack NodeJS developer :beetle: from Vietnam :vietnam: :vietnam
 
 - :coffee: I love to read technical newsletters and sometimes hang out with my friends in my free time.
 
-- 🎉 I am a cheerful and sociable person. Feel free to chat with me on [![Skype](https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white)](skype:xuanthu404?chat)
+- 🎉 I am a cheerful and sociable person. Feel free to chat with me on <a href="skype:xuanthu404?chat">
+      <img src="https://img.shields.io/badge/skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+    </a>
 
 ---
 
