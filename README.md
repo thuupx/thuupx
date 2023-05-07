@@ -90,8 +90,8 @@ They include, but are not limited to:
 
 ### :fire: Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thuupx&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=thuupx&theme=dark&hide_border=true&border_radius=5)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thuupx&show_icons=true&theme=dark)
 
-![My user statistics](images/userstats.svg)
+![My detail statistics](images/userstats.svg)

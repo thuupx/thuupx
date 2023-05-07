@@ -15,8 +15,8 @@ jobs:
       - name: Generate the user stats image
         uses: cicirello/user-statistician@v1.20.2
         with:
-          colors: dark-dimmed
-          custom-title: My GitHub Statistics
+          colors: dark
+          include-title: false
           hide-keys: joined, mostStarred, mostForked, followers, following, private
           max-languages: 100
           animated-language-chart: true
