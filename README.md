@@ -30,80 +30,41 @@
   </div>
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-I'm a passionate Full-Stack Developer from Vietnam 🇻🇳 with expertise in building scalable applications and modern user interfaces. I specialize in React Native, Node.js, and vector search technologies.
+I'm a full-stack software engineer from Vietnam with a passion for building practical, scalable, and visually engaging applications. My work combines strong engineering principles with a focus on user experience and AI-powered functionality.
 
-- 🔭 I'm currently working on **Vortex Mobile** - an AI-powered image search app using vector embeddings
-- 🌱 I'm learning **AI/ML integration in mobile apps** and **LibSQL for vector search**
-- 💼 Available for freelance projects and team collaborations
-- 📸 Photography enthusiast who loves capturing moments during travels
-- 🌐 Fluent in English and Vietnamese
-- 🎮 Casual gamer and tech gadget collector
+- Working on **Piceta Mobile** – an AI-driven image search/manager application
+- Exploring **AI/ML integration for mobile**
+- Open to freelance projects and collaborations
+- Enthusiastic about photography and storytelling through visuals
+- Fluent in English and Vietnamese
 
-## 🚀 Key Skills
+## Key Skills
 
 ```javascript
 const thuPX = {
   languages: ['JavaScript', 'TypeScript', 'Python', 'C#'],
-  frontend: ['React', 'React Native', 'Next.js', 'Vue.js', 'Angular'],
+  frontend: ['React', 'React Native', 'Next.js', 'Expo', 'TailwindCSS'],
   backend: ['Node.js', 'NestJS', 'Express', 'Django', 'GraphQL'],
-  mobile: ['React Native', 'Expo', 'Native Modules'],
-  databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'LibSQL', 'Vector DBs'],
-  cloud: ['AWS', 'GCP', 'Firebase', 'Heroku'],
-  tools: ['Git', 'Docker', 'CI/CD', 'Webpack', 'Vite'],
-  architecture: ['Microservices', 'Serverless', 'MVC', 'MVVM'],
-  currentFocus: 'Building scalable mobile apps with AI capabilities'
+  databases: ['PostgreSQL', 'MongoDB', 'LibSQL', 'Vector Databases'],
+  cloud: ['AWS', 'GCP', 'Firebase', 'Docker'],
+  tools: ['Git', 'CI/CD', 'Webpack', 'Vite'],
+  currentFocus: 'AI-powered mobile applications'
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack (Highlights)
 
-### Programming Languages & Platforms
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **Languages:** JavaScript, TypeScript, Python, C#
+- **Frontend/Mobile:** React, React Native, Next.js, Expo, TailwindCSS
+- **Backend:** Node.js, NestJS, Express, Django, GraphQL
+- **Databases:** PostgreSQL, MongoDB, LibSQL, Vector Databases
+- **Cloud/DevOps:** AWS, Google Cloud, Firebase, Docker, GitHub Actions
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-
-### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuupx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
@@ -113,49 +74,47 @@ const thuPX = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuupx&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 Recent Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Vortex Mobile</h3>
+      <h3 align="center">Piceta Mobile</h3>
       <div align="center">
         <p>
-          <a href="https://github.com/thuupx/vortex-mobile" target="_blank">
+          <a href="https://www.thepiceta.com/" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
-          <a href="#" target="_blank">
+          <a href="https://www.thepiceta.com/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-5C2D91?style=for-the-badge&logo=google-play&logoColor=white"/>
           </a>
         </p>
-        <p><strong>React Native, Expo, LibSQL, Vector Search</strong> - AI-powered image search app using vector embeddings to find similar images and detect near-duplicates.</p>
+        <p><strong>Expo,NativeWind UI, SQL</strong> — Transforming natural queries into image search results.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Fujifilm Recipe Detector by AI</h3>
+      <h3 align="center">Fujifilm Recipe Converter</h3>
       <div align="center">
         <p>
-          <a href="https://github.com/thuupx/recipe-detector" target="_blank">
+          <a href="https://github.com/thuupx/film-detector" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
-          <a href="https://film.thupham.io.vn/" target="_blank">
+          <a href="https://film.thepiceta.com/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
           </a>
         </p>
-        <p><strong>NextJS, Node.js, AI</strong> - A full-stack application that uses NextJS, Node.js, and AI to build a recipe detector that can identify recipes from images.</p>
+        <p><strong>NextJS, Tensorflow.JS</strong> — An AI tool that identifies camera recipes from uploaded images.</p>
       </div>
     </td>
   </tr>
 </table>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+## Blog Posts
 - [From Pixels to Presets: Building an AI That Masters Camera Recipes](https://dev.to/henry_pham/from-pixels-to-presets-building-an-ai-that-masters-camera-recipes-30gd)
-<!-- BLOG-POST-LIST:END -->
 
-## 🤝 Let's Connect
+## Connect
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+I’m always open to meaningful discussions, freelance collaborations, or new opportunities. Feel free to reach out anytime.
 
 <div align="center">
   <a href="mailto:xuanthu404@gmail.com">
@@ -173,6 +132,4 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-  <br/><br/>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
 </div>
